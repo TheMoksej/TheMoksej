@@ -5,6 +5,13 @@
 
 # About me:
 
-### I'm 17 years old male - Lithuanian living in Germany. You can contact me through discord by DMing me [Moksej#3335](https://discord.com/users/345457928972533773) or joining my [discord server](https://discord.gg/f3MaASW) which is also being used as my bot's support server. If you don't have discord you can contact me through email **moksej@gmail.com**
+### I'm a 17 year old male, originally from Lithuania, but currently reside in Germany. If you want to get to know me or have any questions in general do not hesitate to message me on [Discord](https://discord.com/users/345457928972533773), [Gmail](mailto:moksej@gmail.com), [Twitter](https://twitter.com/Moksej)
 
-### I'm the developer of [Dredd](https://github.com/TheMoksej/Dredd) the discord bot and assistant at [discordextremelist.xyz](https://discordextremelist.xyz). 
+#### Stuff I developed:
+- [Dredd](https://github.com/dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features, including miscellaneous stuff, automod and much more.
+- [DEL.py](https://github.com/discordextremelist/del.py) - Python API wrapper for Discord Extreme List
+
+#### Other Projects:
+- Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
+- Manager at [Quacky](https://quacky.xyz/) - Moderation bot with lots of utility features.
+- Chief Learning Officer at [Sentinel](https://sentinel.llc/) - Discord's global ban list.
