@@ -14,4 +14,5 @@
 #### Other Projects:
 - Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
 - Manager at [Quacky](https://quacky.xyz/) - Moderation bot with lots of utility features.
-- Chief Learning Officer at [Sentinel](https://sentinel.llc/) - Discord's global ban list.
+- Staff at [Hosting HQ](https://hostinghq.xyz) - Newly developed full-stack hosting provider
+- Developer at [exorium](https://bluewydev.github.io/Discord-bot-website-template/) - Multi-purpose bot ready to skill up and boost up your Discord server
