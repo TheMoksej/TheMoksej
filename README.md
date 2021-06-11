@@ -16,5 +16,4 @@
 - Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
 - Approver at [Discord Bot Labs](https://bots.discordlabs.org/) - Discord's bots list.
 - Manager at [Quacky](https://quacky.xyz/) - Moderation bot with lots of utility features.
-- Staff at [Hosting HQ](https://hostinghq.xyz) - Newly developed full-stack hosting provider
 - Developer at [exorium](https://bluewydev.github.io/Discord-bot-website-template/) - Multi-purpose bot ready to skill up and boost up your Discord server
