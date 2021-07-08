@@ -17,3 +17,4 @@
 - Manager at [Discord Bot Labs](https://bots.discordlabs.org/) - Discord's bots list.
 - Manager at [Quacky](https://quacky.xyz/) - Moderation bot with lots of utility features.
 - Developer at [exorium](https://bluewydev.github.io/Discord-bot-website-template/) - Multi-purpose bot ready to skill up and boost up your Discord server
+- Support at [Bremea Development](https://bremea.com/) - Creative team focused on bringing innovative interactive experiences to new mediums.
