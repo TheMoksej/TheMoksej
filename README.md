@@ -20,4 +20,5 @@
 - Support at [Bremea Development](https://bremea.com/) - Creative team focused on bringing innovative interactive experiences to new mediums.
 
 
+![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Moksej&theme=merko&hide_border=true&show_icons=True&layout=compact)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=TheMoksej&theme=merko&hide_border=true&show_icons=True)
