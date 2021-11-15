@@ -10,7 +10,6 @@
 #### Stuff I developed:
 - [Dredd](https://github.com/dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features, including miscellaneous stuff, automod and much more.
 - [DEL.py](https://github.com/discordextremelist/del.py) - Python API wrapper for Discord Extreme List
-- [Dextility API (Early Beta, a lot of bugs may occur)](https://api.bots-that.work/) - API for [Dextility](https://github.com/dextility), created using Quart (Python Web Framework)
 
 #### Other Projects:
 - Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
