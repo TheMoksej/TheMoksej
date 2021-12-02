@@ -16,7 +16,6 @@
 - Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
 - Manager at [Discord Bot Labs](https://bots.discordlabs.org/) - Discord's bots list.
 - Manager at [Quacky](https://quacky.xyz/) - Moderation bot with lots of utility features.
-- Support at [Bremea Development](https://bremea.com/) - Creative team focused on bringing innovative interactive experiences to new mediums.
 
 
 ![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Moksej&theme=merko&hide_border=true&show_icons=True&layout=compact)
