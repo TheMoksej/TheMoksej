@@ -11,8 +11,10 @@
 - [Dredd](https://github.com/dredd-bot/Dredd) - Free, multipurpose Discord bot which offers a lot of features, including miscellaneous stuff, automod and much more.
 - [DEL.py](https://github.com/discordextremelist/del.py) - Python API wrapper for Discord Extreme List
 
-#### Other Projects:
-- Manager at [Incara](https://incara.xyz) - A small company that creates various graphic designs, develops websites and other things.
+#### Other Projects I'm a part of:
+- Community Manager & Developer at [Incara](https://incara.xyz) - A small company that creates various graphic designs, develops websites and other things.
+
+#### Projects I've been a part of:
 - Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
 - Manager at [Discord Bot Labs](https://bots.discordlabs.org/) - Discord's bots list.
 - Manager at [Quacky](https://quacky.xyz/) - Moderation bot with lots of utility features.
