@@ -12,7 +12,7 @@
 - [DEL.py](https://github.com/discordextremelist/del.py) - Python API wrapper for Discord Extreme List
 
 #### Other Projects I'm a part of:
-- Community Manager & Developer at [Ulafo](https://ulafo.com) - a digital creative agency. Incara specializes in Graphic Design and Website Development. 
+- Community Manager & Developer at [Ulafo](https://ulafo.com) - a digital creative agency. Ulafo specializes in Graphic Design and Website Development. 
 
 #### Projects I've been a part of:
 - Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
