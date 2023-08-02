@@ -1,7 +1,8 @@
 # Hi, I'm Moksej!
 
-![Moksej's discord status](https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/345457928972533773)
-![Moksej's discord activity](https://img.shields.io/endpoint?label=playing&url=https://dev.discordprofiles.me/api/badge/playing/345457928972533773)
+![Moksej's discord status](https://api.statusbadges.me/badge/status/345457928972533773?simple=true)
+![Moksej's discord activity](https://api.statusbadges.me/badge/playing/345457928972533773)
+[![Spotify](https://api.statusbadges.me/badge/spotify/345457928972533773)](https://api.statusbadges.me/openspotify/345457928972533773)
 
 # About me:
 
