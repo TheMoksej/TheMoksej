@@ -13,12 +13,14 @@
 - [DEL.py](https://github.com/discordextremelist/del.py) - Python API wrapper for Discord Extreme List
 
 #### Other Projects I'm a part of:
-- Community Manager & Developer at [Ulafo](https://ulafo.com) - a digital creative agency. Ulafo specializes in Graphic Design and Website Development. 
+- Community Manager & Developer at [Ulafo](https://ulafo.com) **DISCONTINUED** - a digital creative agency. Ulafo specializes in Graphic Design and Website Development. 
 
 #### Projects I've been a part of:
 - Assistant at [Discord Extreme List](https://discordextremelist.xyz/) - Discord's unbiased bots/servers/templates list.
 - Manager at [Discord Bot Labs](https://bots.discordlabs.org/) - Discord's bots list.
 - Manager at [Quacky](https://quacky.xyz/) - Moderation bot with lots of utility features.
+
+- More at https://moksej.me/#projects
 
 
 ![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Moksej&theme=merko&hide_border=true&show_icons=True&layout=compact)
