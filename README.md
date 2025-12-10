@@ -6,7 +6,7 @@
 
 # About me:
 
-### I'm a 21-year-old male from Lithuania who currently resides in Germany. If you want to get to know me or have any questions in general do not hesitate to message me on [Discord](https://discord.com/users/345457928972533773), [Gmail](mailto:nedas@moksej.me), [Twitter](https://twitter.com/Moksej)
+### I'm a 22-year-old male from Lithuania who currently resides in Germany. If you want to get to know me or have any questions in general do not hesitate to message me on [Discord](https://discord.com/users/345457928972533773), [Gmail](mailto:nedas@moksej.me), [Twitter](https://twitter.com/Moksej)
 
 #### Stuff I developed:
 - [Dredd](https://github.com/dredd-bot/Dredd) - Free, multipurpose Discord bot which offers many features, including miscellaneous stuff, automod and much more.
